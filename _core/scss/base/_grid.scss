@@ -22,24 +22,8 @@ img {
     min-width:260px;
     max-width: $width;
     margin: 0 auto;
-
-    padding-left: 80px;
-    padding-right: 80px;
 }
 
-@media (max-width: $break) {
-  .span {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-
-.spancase {
-    width:100%;
-    min-width:260px;
-    max-width:880px;
-    margin: 0 auto;
-}
 
 /*Clears Childern Elements*/
 

@@ -1,59 +1,87 @@
 <?php
-$title = "Harry Copeman - Product Designer";
+$title = "Coffee Guides - Handpicked Coffee spots in your city";
 include ("_include/header.php");
 ?>
 
-<div class="profile">
-
-		<div class="side right animated fadeIn"></div>
-
-		<div class="side left animated fadeIn">
-			<div class="copy">
-  
-				<p><strong>
-					<script language="JavaScript"> 
-					var myDate = new Date(); 
-					  
-					  
-					/* hour is before noon */
-					if ( myDate.getHours() < 12 )  
-					{ 
-					    document.write("Good Morning!"); 
-					} 
-					else  /* Hour is from noon to 5pm (actually to 5:59 pm) */
-					if ( myDate.getHours() >= 12 && myDate.getHours() <= 17 ) 
-					{ 
-					    document.write("Good Afternoon!"); 
-					} 
-					else  /* the hour is after 5pm, so it is between 6pm and midnight */
-					if ( myDate.getHours() > 17 && myDate.getHours() <= 24 ) 
-					{ 
-					    document.write("Good Evening!"); 
-					} 
-					else  /* the hour is not between 0 and 24, so something is wrong */
-					{ 
-					    document.write("I'm not sure what time it is!"); 
-					} 
-					</script></strong>
+<section class="intro">
+	<div class="span">
+		<div class="loop-12">
+			<h1>Find your Coffee spot</h1>
+			<p>We handpick the best coffee spots in your city, for your drinking & working pleasure. <a href="#">Explore</a>.</p>
+		</div>
+	</div>
+</section>
 
 
+<section class="cities">
+
+	<div class="row">
+
+		<a href="#"><div class="city left" style="background-image: url(_core/imgs/london/bg.png);">
+			<h1 class='city-name'>London</h1>
+		</div></a>
+
+		<a href="#"><div class="city middle" style="background-image: url(_core/imgs/berlin/bg.png);">
+			<h1 class='city-name'>Berlin</h1>
+		</div></a>
+
+		<a href="#"><div class="city right" style="background-image: url(_core/imgs/sf/bg.png);">
+			<h1 class='city-name'>SF</h1>
+		</div></a>
+
+	</div>
+
+	<div class="row">
+
+		<a href="#"><div class="city left" style="background-image: url(_core/imgs/ny/bg.png);">
+			<h1 class='city-name'>New York</h1>
+		</div></a>
+
+		<a href="#"><div class="city middle" style="background-image: url(_core/imgs/paris/bg.png);">
+			<h1 class='city-name'>Paris</h1>
+		</div></a>
+
+		<a href="#"><div class="city right" style="background-image: url(_core/imgs/portland/bg.png);">
+			<h1 class='city-name'>Portland</h1>
+		</div></a>
+
+	</div>
+
+</section>
 
 
-<br><br>I’m Harry Copeman, a product designer based in Hull, soon to be joining the team at <a href="https://www.facebook.com/">Facebook</a> in London; where I'll be working with the incredible Business Solutions team.<br><br>
+<section class="cta">
+	<div class="span">
+		<div class="loop-12">
+			<div class="loop-12">
+				<h1>More coming soon</h1>
+				<p>Sign up to be notified when we add more cities to the site. Want to see your hometown here? <a href="#">Let us know</a>.</p>
 
-Previous to this, I freelanced for some incredible teams including <a href="https://www.dropbox.com/">Dropbox</a>, where I helped them improve the universal experience of <a href="http://www.mailboxapp.com/" target="_blank">Mailbox</a>; a lightweight tool allowing you to keep on top of your inbox.<br><br>
+				<!-- Begin MailChimp Signup Form -->
+				<div id="mc_embed_signup">
+				<form action="//harrycopeman.us6.list-manage.com/subscribe/post?u=20ad967a794e523a88fc3a05b&amp;id=d0f27bb8b0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				    <div id="mc_embed_signup_scroll">
+				<div class="mc-field-group">
+					<input type="email" value="" placeholder="Your email..."  name="EMAIL" class="required email" id="mce-EMAIL">
+				</div>
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				    <div style="position: absolute; left: -5000px;"><input type="text" name="b_20ad967a794e523a88fc3a05b_d0f27bb8b0" tabindex="-1" value=""></div>
+				    <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+				    </div>
 
- I’ve also worked with teams like <a href="https://seatgeek.com/" target="_blank">SeatGeek</a>, and various small startups across the world. You can see my full portfolio <a href="portfolio">here</a>.<br><br>
+				    <div class="line"></div>
+				</form>
+				</div>
 
-Feel free to drop me an <a href="mailto:harry.copeman@gmail.com">email</a>, or <a href="https://twitter.com/harrycopeman">tweet me</a>.</p>
-
+				<!--End mc_embed_signup-->
 			</div>
 		</div>
+	</div>
+</section>
 
-		
-</div>
 
 
 <?php include ("_include/footer.php"); ?>
-
-
