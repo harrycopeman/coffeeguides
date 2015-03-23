@@ -1,0 +1,80 @@
+.city-header {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 
+
+		h1 {
+			margin-top: 260px;
+			font-family: $sans;
+			text-align: center;
+			font-size: 40px;
+			font-weight: 300;
+			letter-spacing: 8px;
+			text-transform: uppercase;
+			margin-bottom: 20px;
+		}
+		p {
+			font-family: $serif;
+			text-align: center;
+			font-size: 20px;
+			line-height: 1.4;
+			max-width: 400px;
+			margin: auto;
+			margin-bottom: 260px;
+		}
+		#white {
+			color: white;
+		}
+		#black {
+			color: $text;
+		}
+}
+
+
+.item {
+	margin-top: 60px;
+
+
+		.item-name {
+			font-family: $sans;
+			color: $text;
+			font-size: 26px;
+			margin-bottom: 20px;
+		}
+		.item-desc {
+			font-family: $serif;
+			color: $light-text;
+			font-size: 18px;
+			line-height: 1.4;
+		}
+		.wide-image {
+			width: 130%;
+			margin-left: -15%;
+		}
+		ul {
+			margin: 30px auto 40px;
+				li {
+					display: inline-block;
+					margin-right: 40px;
+					font-size: 18px;
+					font-family: $serif;
+					color: $text;
+					font-style: italic;
+				}
+				.link-icon {
+					background-image: url(../imgs/link.svg);
+					background-position: left center;
+					background-repeat: no-repeat;
+					padding-top: 2px;
+					padding-left: 26px; /* Or size of icon + spacing */
+				}
+				.location-icon {
+					background-image: url(../imgs/location.svg);
+					background-position: left center;
+					background-repeat: no-repeat;
+					padding-top: 2px;
+					padding-left: 26px; /* Or size of icon + spacing */
+				}
+		}
+}

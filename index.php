@@ -37,8 +37,8 @@ include ("_include/header.php");
 			<h1 class='city-name'>New York</h1>
 		</div></a>
 
-		<a href="#"><div class="city middle" style="background-image: url(_core/imgs/paris/bg.png);">
-			<h1 class='city-name'>Paris</h1>
+		<a href="#"><div class="city middle" style="background-image: url(_core/imgs/bristol/bg.png);">
+			<h1 class='city-name'>Bristol</h1>
 		</div></a>
 
 		<a href="#"><div class="city right" style="background-image: url(_core/imgs/portland/bg.png);">

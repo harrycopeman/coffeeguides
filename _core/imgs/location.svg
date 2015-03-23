@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-632.000000, -962.000000)" fill="#9EA7AF">
+            <g id="1" sketch:type="MSLayerGroup" transform="translate(320.000000, 774.000000)">
+                <path d="M318.072,197 C316.416,197 315.072,195.656 315.072,194 C315.072,192.344 316.416,191 318.072,191 C319.728,191 321.072,192.344 321.072,194 C321.072,195.656 319.728,197 318.072,197 L318.072,197 Z M318.072,188 C314.718,188 312,190.719 312,194.072 C312,198.363 316.363,202.652 317.692,203.86 C317.899,204.047 318.245,204.047 318.452,203.86 C319.781,202.652 324.144,198.363 324.144,194.072 C324.144,190.719 321.425,188 318.072,188 L318.072,188 Z" id="location" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
