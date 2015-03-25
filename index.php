@@ -26,7 +26,7 @@ include ("_include/navigation.php");
 			<h1 class='city-name'>Berlin</h1>
 		</div></a>
 
-		<a href="#"><div class="city right" style="background-image: url(_core/imgs/sf/bg.png);">
+		<a href="san-francisco"><div class="city right" style="background-image: url(_core/imgs/sf/bg.png);">
 			<h1 class='city-name'>SF</h1>
 		</div></a>
 
