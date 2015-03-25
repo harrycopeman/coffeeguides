@@ -99,7 +99,7 @@ include ("../_include/light-navigation.php");
 			</div>
 			<div id="right" class="loop-6">
 				<p class="label">Next</p>
-				<a href="#"><p>Berlin</p></a>
+				<a href="/berlin"><p>Berlin</p></a>
 			</div>
 		</div>
 	</div>

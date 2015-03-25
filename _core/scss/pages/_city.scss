@@ -92,6 +92,7 @@
 			color: $light-text;
 			font-size: 12px;
 			margin-bottom: -5px;
+
 		}
 		p {
 			font-family: $serif;
@@ -107,5 +108,8 @@
 		}
 		#right {
 			text-align: right;
+		}
+		.label:hover {
+		opacity: 1;
 		}
 }

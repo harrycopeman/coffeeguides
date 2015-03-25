@@ -1,5 +1,5 @@
 <?php
-$title = "London - Coffee Guides";
+$title = "Berlin - Coffee Guides";
 include ("../_include/header.php");
 include ("../_include/light-navigation.php");
 ?>
@@ -11,7 +11,7 @@ include ("../_include/light-navigation.php");
 		<div class="loop-12">
 			<div class="loop-12">
 				<h1 id='white'>Berlin</h1>
-				<p id='white'>Still the European coffee capital.</p>
+				<p id='white'>The European coffee capital.</p>
 			</div>
 		</div>
 	</div>
@@ -28,7 +28,7 @@ include ("../_include/light-navigation.php");
 					<li><span class="location-icon">Reichenberger Straße 101</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/london/workshop.png"/>
+					<img src="/_core/imgs/berlin/1.png"/>
 				</div>
 			</div>
 		</div>
@@ -46,7 +46,7 @@ include ("../_include/light-navigation.php");
 					<li><span class="location-icon">Rykestraße 45</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/london/workshop.png"/>
+					<img src="/_core/imgs/berlin/2.png"/>
 				</div>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ include ("../_include/light-navigation.php");
 					<li><span class="location-icon">Mittenwalder Straße 30</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/london/workshop.png"/>
+					<img src="/_core/imgs/berlin/3.png"/>
 				</div>
 			</div>
 		</div>
@@ -82,7 +82,7 @@ include ("../_include/light-navigation.php");
 					<li><span class="location-icon">Auguststraße 58</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/london/workshop.png"/>
+					<img src="/_core/imgs/berlin/4.png"/>
 				</div>
 			</div>
 		</div>
@@ -100,7 +100,7 @@ include ("../_include/light-navigation.php");
 					<li><span class="location-icon">Oranienstrasse 24</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/london/workshop.png"/>
+					<img src="/_core/imgs/berlin/5.png"/>
 				</div>
 			</div>
 		</div>
@@ -113,11 +113,11 @@ include ("../_include/light-navigation.php");
 		<div class="loop-12">
 			<div class="loop-6">
 				<p class="label">Prev</p>
-				<a href="#"><p>London</p></a>
+				<a href="/london"><p>London</p></a>
 			</div>
 			<div id="right" class="loop-6">
 				<p class="label">Next</p>
-				<a href="#"><p>SF</p></a>
+				<a href="/sf"><p>SF</p></a>
 			</div>
 		</div>
 	</div>
