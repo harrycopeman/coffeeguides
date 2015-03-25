@@ -37,15 +37,15 @@
       "initialSize" : 150602,
       "fileType" : 8192
     },
-    "\/_core\/imgs\/ny\/bg.png" : {
+    "\/_core\/imgs\/london\/social.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/imgs\/ny\/bg.png",
+      "inputAbbreviatedPath" : "\/_core\/imgs\/london\/social.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_core\/imgs\/ny\/bg.png",
-      "initialSize" : 141187,
+      "outputAbbreviatedPath" : "\/_core\/imgs\/london\/social.png",
+      "initialSize" : 761236,
       "fileType" : 8192
     },
     "\/_core\/imgs\/portland\/bg.png" : {
@@ -79,17 +79,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_core\/imgs\/london\/social.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/imgs\/london\/social.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_core\/imgs\/london\/social.png",
-      "initialSize" : 761236,
-      "fileType" : 8192
-    },
     "\/_core\/css\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -98,6 +87,17 @@
       "inputAbbreviatedPath" : "\/_core\/css\/style.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/_core\/imgs\/ny\/bg.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/imgs\/ny\/bg.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_core\/imgs\/ny\/bg.png",
+      "initialSize" : 141187,
+      "fileType" : 8192
     },
     "\/_include\/light-navigation.php" : {
       "ignoreWasSetByUser" : 0,
@@ -120,17 +120,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_core\/imgs\/berlin\/header.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/imgs\/berlin\/header.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_core\/imgs\/berlin\/header.png",
-      "initialSize" : 1770577,
-      "fileType" : 8192
-    },
     "\/_core\/imgs\/london\/ozone.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -140,6 +129,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_core\/imgs\/london\/ozone.png",
       "initialSize" : 686102,
+      "fileType" : 8192
+    },
+    "\/_core\/imgs\/berlin\/header.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/imgs\/berlin\/header.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_core\/imgs\/berlin\/header.png",
+      "initialSize" : 1770577,
       "fileType" : 8192
     },
     "\/_core\/imgs\/sf\/bg.png" : {
