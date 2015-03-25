@@ -1,7 +1,10 @@
 <?php
 $title = "London - Coffee Guides";
 include ("../_include/header.php");
+include ("../_include/light-navigation.php");
 ?>
+
+
 
 <header class="city-header" style="background-image: url(/_core/imgs/london/header.png);">
 	<div class="span">
@@ -81,6 +84,22 @@ include ("../_include/header.php");
 				<div class="wide-image">
 					<img src="/_core/imgs/london/ozone.png"/>
 				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="controls">
+	<div class="span">
+		<div class="loop-12">
+			<div class="loop-6">
+				<p class="label">Prev</p>
+				<a href="#"><p>Portland</p></a>
+			</div>
+			<div id="right" class="loop-6">
+				<p class="label">Next</p>
+				<a href="#"><p>Berlin</p></a>
 			</div>
 		</div>
 	</div>

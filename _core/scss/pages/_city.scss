@@ -17,7 +17,7 @@
 		p {
 			font-family: $serif;
 			text-align: center;
-			font-size: 20px;
+			font-size: 18px;
 			line-height: 1.4;
 			max-width: 400px;
 			margin: auto;
@@ -39,25 +39,26 @@
 		.item-name {
 			font-family: $sans;
 			color: $text;
-			font-size: 26px;
+			font-size: 24px;
 			margin-bottom: 20px;
+			font-weight: 500;
 		}
 		.item-desc {
 			font-family: $serif;
 			color: $light-text;
 			font-size: 18px;
-			line-height: 1.4;
+			line-height: 1.5;
 		}
 		.wide-image {
-			width: 130%;
-			margin-left: -15%;
+			width: 120%;
+			margin-left: -10%;
 		}
 		ul {
 			margin: 30px auto 40px;
 				li {
 					display: inline-block;
 					margin-right: 40px;
-					font-size: 18px;
+					font-size: 16px;
 					font-family: $serif;
 					color: $text;
 					font-style: italic;
@@ -66,15 +67,45 @@
 					background-image: url(../imgs/link.svg);
 					background-position: left center;
 					background-repeat: no-repeat;
-					padding-top: 2px;
+					padding-top: 0px;
 					padding-left: 26px; /* Or size of icon + spacing */
 				}
 				.location-icon {
 					background-image: url(../imgs/location.svg);
 					background-position: left center;
 					background-repeat: no-repeat;
-					padding-top: 2px;
+					padding-top: 0px;
 					padding-left: 26px; /* Or size of icon + spacing */
 				}
+		}
+}
+
+
+
+.controls {
+	margin: 40px auto 80px !important;
+
+
+		.label {
+			font-family: $serif;
+			font-style: italic;
+			color: $light-text;
+			font-size: 12px;
+			margin-bottom: -5px;
+		}
+		p {
+			font-family: $serif;
+			color: $text;
+			font-size: 18px;
+
+				&:hover {
+					opacity: 0.7;
+				}
+		}
+		a {
+			text-decoration: none;
+		}
+		#right {
+			text-align: right;
 		}
 }

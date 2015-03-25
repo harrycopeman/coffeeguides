@@ -1,6 +1,7 @@
 <?php
 $title = "Coffee Guides - Handpicked Coffee spots in your city";
 include ("_include/header.php");
+include ("_include/navigation.php");
 ?>
 
 <section class="intro">
@@ -17,11 +18,11 @@ include ("_include/header.php");
 
 	<div class="row">
 
-		<a href="#"><div class="city left" style="background-image: url(_core/imgs/london/bg.png);">
+		<a href="london"><div class="city left" style="background-image: url(_core/imgs/london/bg.png);">
 			<h1 class='city-name'>London</h1>
 		</div></a>
 
-		<a href="#"><div class="city middle" style="background-image: url(_core/imgs/berlin/bg.png);">
+		<a href="berlin"><div class="city middle" style="background-image: url(_core/imgs/berlin/bg.png);">
 			<h1 class='city-name'>Berlin</h1>
 		</div></a>
 
@@ -55,7 +56,7 @@ include ("_include/header.php");
 		<div class="loop-12">
 			<div class="loop-12">
 				<h1>More coming soon</h1>
-				<p>Sign up to be notified when we add more cities to the site. Want to see your hometown here? <a href="#">Let us know</a>.</p>
+				<p>Sign up to be notified when we add more cities to the site. Want to see your hometown here? <a href="mailto:harry.copeman@gmail.com?subject=Check out my city!&body=Hey, you should check out ...">Let us know</a>.</p>
 
 				<!-- Begin MailChimp Signup Form -->
 				<div id="mc_embed_signup">
