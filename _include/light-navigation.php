@@ -1,5 +1,5 @@
 <section class="navigation">
-	<a href="/"><h1>Coffeeguides.co</h1></a>
+	<a href="/"><h1>Coffee Guides</h1></a>
 
 	<ul>
 		<a href="/about"><li>About</li></a>

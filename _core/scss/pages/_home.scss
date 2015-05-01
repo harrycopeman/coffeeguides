@@ -16,7 +16,7 @@
 			font-size: 22px;
 			line-height: 1.6;
 			margin-top: 20px;
-			margin-bottom: 140px;
+			margin-bottom: 110px;
 		}
 		a {
 			text-decoration: none;
@@ -35,68 +35,31 @@
 
 
 		.city {
-			background: #444444 center center;
-			width: 33.3333%;
-			height: 600px;
+			background: center center;
+			height: 360px;
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
 			background-size: cover;
+			margin-bottom: -22px;
 
 				&:hover {
-					opacity: 0.95;
+					opacity: 0.9;
 				}
-
 		}
-		.left {
-			display: inline-block;
-			float: left;
-		}
-		.middle {
-			display: inline-block;
-			float: none;
-		}
-		.right {
-			display: inline-block;
-			float: right;
-		}
-
-
 		.city-name {
 			color: white;
 			font-family: $sans;
-			text-transform: uppercase;
-			font-weight: 300;
-			font-size: 40px;
+			font-weight: 500;
+			font-size: 50px;
 			text-align: center;
-			letter-spacing: 8px;
-			margin-top: 270px;
+			padding-top: 130px;
+			text-decoration: none !important;
+		}
+		a {
+			text-decoration: none !important;
 		}
 
-		@media screen and (max-width: 1700px) {
-			.city {
-				height: 360px;
-			}
-			.city-name {
-				margin-top: 150px;
-			}
-		}	
-		@media screen and (max-width: 1000px) {
-			.city {
-				height: 300px;
-			}
-			.city-name {
-				margin-top: 130px;
-				font-size: 30px;
-			}
-		}	
-		@media screen and (max-width: 800px) {
-			.city {
-				width: 100%;
-			}
-		}
-
-		
 
 }
 

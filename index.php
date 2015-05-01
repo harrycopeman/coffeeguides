@@ -8,7 +8,7 @@ include ("_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<h1>Find your Coffee spot</h1>
-			<p>We handpick the best coffee spots in your city, for your drinking & working pleasure. <a href="#">Explore</a>.</p>
+			<p>We handpick the best coffee spots in your city, for your drinking & working pleasure.</p>
 		</div>
 	</div>
 </section>
@@ -16,39 +16,55 @@ include ("_include/navigation.php");
 
 <section class="cities">
 
-	<div class="row">
-
-		<a href="london"><div class="city left" style="background-image: url(_core/imgs/london/bg.png);">
-			<h1 class='city-name'>London</h1>
-		</div></a>
-
-		<a href="berlin"><div class="city middle" style="background-image: url(_core/imgs/berlin/bg.png);">
-			<h1 class='city-name'>Berlin</h1>
-		</div></a>
-
-		<a href="san-francisco"><div class="city right" style="background-image: url(_core/imgs/sf/bg.png);">
-			<h1 class='city-name'>SF</h1>
-		</div></a>
-
+	<div class="span">
+		<div class="loop-12">
+			<div class="loop-7">
+				<a href="london"><div class="city" style="background-image: url(_core/imgs/london/bg.png);">
+					<h1 class='city-name'>London</h1>
+				</div></a>
+			</div>
+			<div class="loop-5">
+				<a href="berlin"><div class="city" style="background-image: url(_core/imgs/berlin/bg.png);">
+					<h1 class='city-name'>Berlin</h1>
+				</div></a>
+			</div>
+		</div>
 	</div>
 
-	<div class="row">
-
-		<a href="#"><div class="city left" style="background-image: url(_core/imgs/ny/bg.png);">
-			<h1 class='city-name'>New York</h1>
-		</div></a>
-
-		<a href="#"><div class="city middle" style="background-image: url(_core/imgs/bristol/bg.png);">
-			<h1 class='city-name'>Bristol</h1>
-		</div></a>
-
-		<a href="#"><div class="city right" style="background-image: url(_core/imgs/portland/bg.png);">
-			<h1 class='city-name'>Portland</h1>
-		</div></a>
-
+	<div class="span">
+		<div class="loop-12">
+			<div class="loop-4">
+				<a href="london"><div class="city" style="background-image: url(_core/imgs/sf/bg.png);">
+					<h1 class='city-name'>SF</h1>
+				</div></a>
+			</div>
+			<div class="loop-4">
+				<a href="berlin"><div class="city" style="background-image: url(_core/imgs/ny/bg.png);">
+					<h1 class='city-name'>New York</h1>
+				</div></a>
+			</div>
+			<div class="loop-4">
+				<a href="berlin"><div class="city" style="background-image: url(_core/imgs/bristol/bg.png);">
+					<h1 class='city-name'>Bristol</h1>
+				</div></a>
+			</div>
+		</div>
 	</div>
 
-</section>
+	<div class="span">
+		<div class="loop-12">
+			<div class="loop-5">
+				<a href="london"><div class="city" style="background-image: url(_core/imgs/portland/bg.png);">
+					<h1 class='city-name'>Portland</h1>
+				</div></a>
+			</div>
+			<div class="loop-7">
+				<a href="berlin"><div class="city" style="background-image: url(_core/imgs/brighton/bg.png);">
+					<h1 class='city-name'>Brighton</h1>
+				</div></a>
+			</div>
+		</div>
+	</div>
 
 
 <section class="cta">

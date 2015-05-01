@@ -1,17 +1,17 @@
 <?php
-$title = "San Francisco - Coffee Guides";
+$title = "New York - Coffee Guides";
 include ("../_include/header.php");
 include ("../_include/light-navigation.php");
 ?>
 
 
 
-<header class="city-header" style="background-image: url(/_core/imgs/sf/header.png);">
+<header class="city-header" style="background-image: url(/_core/imgs/ny/header.png);">
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<h1 id='white'>San Francisco</h1>
-				<p id='white'>The most hipster place you'll ever get a coffee.</p>
+				<h1 id='white'>New York</h1>
+				<p id='white'>Kwoffee.</p>
 			</div>
 		</div>
 	</div>
@@ -21,14 +21,14 @@ include ("../_include/light-navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="item-name">Ritual</p>
+				<p class="item-name">Two Hands</p>
 				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
 				<ul>
-					<a href="http://www.ritualroasters.com/"><li><span class="link-icon">ritualroasters.com</span></li></a>
-					<li><span class="location-icon">1026 Valencia Street</span></li>
+					<a href="http://www.twohandsnyc.com/"><li><span class="link-icon">twohandsnyc.com</span></li></a>
+					<li><span class="location-icon">164 Mott St</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/sf/1.png"/>
+					<img src="/_core/imgs/ny/1.png"/>
 				</div>
 			</div>
 		</div>
@@ -39,14 +39,14 @@ include ("../_include/light-navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="item-name">The Mill</p>
+				<p class="item-name">La Colombe Torrefaction</p>
 				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
 				<ul>
-					<a href="http://www.fiveelephant.com/"><li><span class="link-icon">fiveelephant.com</span></li></a>
-					<li><span class="location-icon">Reichenberger Straße 101</span></li>
+					<a href="http://www.lacolombe.com/"><li><span class="link-icon">lacolombe.com</span></li></a>
+					<li><span class="location-icon">400 Lafayette Street</span></li>
 				</ul>
 				<div class="wide-image">
-					<img src="/_core/imgs/sf/6.png"/>
+					<img src="/_core/imgs/ny/2.png"/>
 				</div>
 			</div>
 		</div>
@@ -57,7 +57,7 @@ include ("../_include/light-navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="item-name">Saint Frank</p>
+				<p class="item-name">Blue Bird Coffee</p>
 				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
 				<ul>
 					<a href="http://www.saintfrankcoffee.com/"><li><span class="link-icon">saintfrankcoffee.com</span></li></a>
@@ -76,7 +76,7 @@ include ("../_include/light-navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="item-name">Réveille Coffee Co</p>
+				<p class="item-name">Culture Espresso</p>
 				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
 				<ul>
 					<a href="http://www.reveillecoffee.com/"><li><span class="link-icon">reveillecoffee.com</span></li></a>
@@ -94,7 +94,7 @@ include ("../_include/light-navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="item-name">Blue Bottle</p>
+				<p class="item-name">FIKA</p>
 				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
 				<ul>
 					<a href="https://bluebottlecoffee.com/"><li><span class="link-icon">bluebottlecoffee.com</span></li></a>
@@ -130,7 +130,7 @@ include ("../_include/light-navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="item-name">Haus</p>
+				<p class="item-name">Ground Support</p>
 				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
 				<ul>
 					<a href="https://www.facebook.com/pages/Haus-Coffee/115072215177063"><li><span class="link-icon">facebook.com/Haus-Coffee</span></li></a>
