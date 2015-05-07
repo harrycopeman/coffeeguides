@@ -1,12 +1,12 @@
 <?php
 $title = "London - Coffee Guides";
 include ("../_include/header.php");
-include ("../_include/light-navigation.php");
+include ("../_include/navigation.php");
 ?>
 
 
 
-<header class="city-header" style="background-image: url(/_core/imgs/london/header.png);">
+<header class="city-header">
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
@@ -20,7 +20,8 @@ include ("../_include/light-navigation.php");
 <section class="item">
 	<div class="span">
 		<div class="loop-12">
-			<div class="loop-12">
+
+			<div class="loop-7">
 				<div class="location overlay black" style="background-image: url(/_core/imgs/london/workshop.png);">
 					<p class="item-name">Workshop Coffee</p>
 					<ul>
@@ -30,15 +31,8 @@ include ("../_include/light-navigation.php");
 					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
-		</div>
-	</div>
-</section>
 
-
-<section class="item">
-	<div class="span">
-		<div class="loop-12">
-			<div class="loop-12">
+			<div class="loop-5">
 				<div class="location overlay black" style="background-image: url(/_core/imgs/london/look.png);">
 					<p class="item-name">Look Mum No Hands!</p>
 					<ul>
@@ -48,16 +42,30 @@ include ("../_include/light-navigation.php");
 					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
+
 		</div>
 	</div>
 </section>
 
+
 <section class="item">
 	<div class="span">
 		<div class="loop-12">
-			<div class="loop-12">
+
+			<div class="loop-5">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/london/ozone.png);">
+					<p class="item-name">Ozone Coffee Roasters</p>
+					<ul>
+						<a href="http://www.ozonecoffee.co.uk/"><li><span class="link-icon">ozonecoffee.co.uk</span></li></a>
+						<li><span class="location-icon">11 Leonard Street</span></li>
+					</ul>
+					<a class="more" href="#">More Info</a>
+				</div>
+			</div>
+
+			<div class="loop-7">
 				<div class="location overlay black" style="background-image: url(/_core/imgs/london/social.png);">
-					<p class="item-name">Department of Coffee and Social Affair</p>
+					<p class="item-name">Department of Coffee and Social Affairs</p>
 					<ul>
 						<a href="http://departmentofcoffee.com/"><li><span class="link-icon">departmentofcoffee.com</span></li></a>
 						<li><span class="location-icon">14 - 16 Leather Lane</span></li>
@@ -65,30 +73,14 @@ include ("../_include/light-navigation.php");
 					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
+
+
 		</div>
 	</div>
 </section>
 
 
 
-
-<section class="item">
-	<div class="span">
-		<div class="loop-12">
-			<div class="loop-12">
-				<p class="item-name">Ozone Coffee Roasters</p>
-				<p class="item-desc">Ozone Coffee Roasters is a well-established specialty coffee roastery. They are committed to the pursuit of coffee excellence and are constantly trialling new methods, processes and ways to improve the experience for all of their customers.</p>
-				<ul>
-					<a href="http://www.ozonecoffee.co.uk/"><li><span class="link-icon">ozonecoffee.co.uk</span></li></a>
-					<li><span class="location-icon">11 Leonard Street</span></li>
-				</ul>
-				<div class="wide-image">
-					<img src="/_core/imgs/london/ozone.png"/>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 
 <section class="controls">
