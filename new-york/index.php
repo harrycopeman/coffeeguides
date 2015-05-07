@@ -1,17 +1,16 @@
 <?php
 $title = "New York - Coffee Guides";
 include ("../_include/header.php");
-include ("../_include/light-navigation.php");
+include ("../_include/navigation.php");
 ?>
 
 
 
-<header class="city-header" style="background-image: url(/_core/imgs/ny/header.png);">
+<header class="city-header">
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
 				<h1 id='white'>New York</h1>
-				<p id='white'>Kwoffee.</p>
 			</div>
 		</div>
 	</div>
@@ -20,17 +19,19 @@ include ("../_include/light-navigation.php");
 <section class="item">
 	<div class="span">
 		<div class="loop-12">
-			<div class="loop-12">
-				<p class="item-name">Two Hands</p>
-				<p class="item-desc">Besides making the best cheese cake in Berlin, Five Elephant is famous for excellent roasting and supplies many of Berlin’s prettiest cafés with coffee.</p>
-				<ul>
-					<a href="http://www.twohandsnyc.com/"><li><span class="link-icon">twohandsnyc.com</span></li></a>
-					<li><span class="location-icon">164 Mott St</span></li>
-				</ul>
-				<div class="wide-image">
-					<img src="/_core/imgs/ny/1.png"/>
+
+			<div class="loop-7">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/1.png);">
+					<p class="item-name">Two Hands</p>
+					<ul>
+						<a href="http://www.twohandsnyc.com/"><li><span class="link-icon">twohandsnyc.com</span></li></a>
+						<li><span class="location-icon">164 Mott St</span></li>
+					</ul>
+					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
+
+			
 		</div>
 	</div>
 </section>

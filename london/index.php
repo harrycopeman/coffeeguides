@@ -11,7 +11,6 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 			<div class="loop-12">
 				<h1 id='white'>London</h1>
-				<p id='white'>The city of fashion, art, and very good coffee. Here’s our guide to Londons finest coffee spots.</p>
 			</div>
 		</div>
 	</div>

@@ -35,12 +35,12 @@ include ("_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-4">
-				<a href="london"><div class="city overlay black" style="background-image: url(_core/imgs/sf/bg.png);">
+				<a href="san-francisco"><div class="city overlay black" style="background-image: url(_core/imgs/sf/bg.png);">
 					<h1 class='city-name'>SF</h1>
 				</div></a>
 			</div>
 			<div class="loop-4">
-				<a href="berlin"><div class="city overlay black" style="background-image: url(_core/imgs/ny/bg.png);">
+				<a href="new-york"><div class="city overlay black" style="background-image: url(_core/imgs/ny/bg.png);">
 					<h1 class='city-name'>New York</h1>
 				</div></a>
 			</div>
