@@ -44,6 +44,7 @@ img {
 /*Floats and Pads*/
 
 [class*='loop'] {
+  position: relative;
   float: left;
   padding: 12px;
 }
@@ -94,3 +95,15 @@ img {
     }
 }
 
+.item .span {
+    width:100%;
+    min-width:260px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.controls .span {
+    width:100%;
+    min-width:260px;
+    max-width: 0px;
+    margin: 0 auto;
+}
