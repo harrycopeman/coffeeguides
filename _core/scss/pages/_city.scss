@@ -30,20 +30,22 @@
 			font-weight: 500;
 			color: white;
 			position: absolute;
-			bottom: 46px;
+			bottom: 66px;
 			left: 30px;
 		}
 		ul {
 			position: absolute;
-			bottom: 22px;
+			bottom: 14px;
 			left: 30px;
 				li {
-					display: inline-block;
 					margin-right: 40px;
 					font-size: 16px;
 					font-family: $serif;
 					color: white;
 					font-style: italic;
+				}
+				a {
+					text-decoration: none;
 				}
 				.link-icon {
 					background-image: url(../imgs/link.svg);

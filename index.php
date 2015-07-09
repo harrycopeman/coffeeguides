@@ -45,7 +45,7 @@ include ("_include/navigation.php");
 				</div></a>
 			</div>
 			<div class="loop-4">
-				<a href="berlin"><div class="city overlay black" style="background-image: url(_core/imgs/bristol/bg.png);">
+				<a href="bristol"><div class="city overlay black" style="background-image: url(_core/imgs/bristol/bg.png);">
 					<h1 class='city-name'>Bristol</h1>
 				</div></a>
 			</div>
