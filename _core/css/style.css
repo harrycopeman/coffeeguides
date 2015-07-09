@@ -2690,11 +2690,11 @@ footer {
     font-weight: 500;
     color: white;
     position: absolute;
-    bottom: 66px;
+    bottom: 68px;
     left: 30px; }
   .item ul {
     position: absolute;
-    bottom: 14px;
+    bottom: 16px;
     left: 30px; }
     .item ul li {
       margin-right: 40px;
@@ -2730,6 +2730,8 @@ footer {
     right: 40px;
     bottom: 24px;
     border-bottom: 2px solid #DBBA88; }
+  .item .location {
+    opacity: 0.9; }
   .item .black:before {
     -moz-transition: opacity 300ms ease-in-out;
     -o-transition: opacity 300ms ease-in-out;
