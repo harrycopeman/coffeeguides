@@ -1,5 +1,5 @@
 <?php
-$title = "Portland - Coffee Guides";
+$title = "Brighton - Coffee Guides";
 include ("../_include/header.php");
 include ("../_include/navigation.php");
 ?>
@@ -10,7 +10,7 @@ include ("../_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<h1 id='white'>Portland</h1>
+				<h1 id='white'>Brighton</h1>
 			</div>
 		</div>
 	</div>

@@ -52,22 +52,22 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/birch.jpg);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/barista.jpg);">
 					<p class="item-name">Barista</p>
 					<ul>
-						<a href="http://www.birchcoffee.com"><li><span class="link-icon">birchcoffee.com</span></li></a>
-						<li><span class="location-icon">56 7th Ave</span></li>
+						<a href="http://baristapdx.com"><li><span class="link-icon">baristapdx.com</span></li></a>
+						<li><span class="location-icon">529 SW 3rd Ave</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/blue.jpg);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/stumptown.jpg);">
 					<p class="item-name">Stumptown Coffee</p>
 					<ul>
-						<a href="https://bluebottlecoffee.com"><li><span class="link-icon">bluebottlecoffee.com</span></li></a>
-						<li><span class="location-icon">160 Berry St</span></li>
+						<a href="https://www.stumptowncoffee.com"><li><span class="link-icon">stumptowncoffee.com</span></li></a>
+						<li><span class="location-icon">3356 SE Belmont St</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>
@@ -83,22 +83,22 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/maman.jpg);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/courier.jpg);">
 					<p class="item-name">Courier Coffee</p>
 					<ul>
-						<a href="http://www.mamannyc.com"><li><span class="link-icon">mamannyc.com</span></li></a>
-						<li><span class="location-icon">239 Centre St</span></li>
+						<a href="http://www.couriercoffeeroasters.com"><li><span class="link-icon">couriercoffeeroasters.com</span></li></a>
+						<li><span class="location-icon">923 SW Oak</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/collins.jpg);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/ristretto.jpg);">
 					<p class="item-name">Ristretto Roasters</p>
 					<ul>
-						<a href="http://www.littlecollinsnyc.com"><li><span class="link-icon">littlecollinsnyc.com</span></li></a>
-						<li><span class="location-icon">667 Lexington Ave</span></li>
+						<a href="http://ristrettoroasters.com"><li><span class="link-icon">ristrettoroasters.com</span></li></a>
+						<li><span class="location-icon">3808 N Williams Ave</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>
