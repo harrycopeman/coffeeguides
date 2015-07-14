@@ -32,11 +32,11 @@ include ("../_include/navigation.php");
 			</div>
 
 			<div class="loop-4">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/albina.jpg);">
-					<p class="item-name">The Albina Press</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/courier.jpg);">
+					<p class="item-name">Courier Coffee</p>
 					<ul>
-						<a href="https://foursquare.com/v/the-albina-press/4a5ecd39f964a52028bf1fe3"><li><span class="link-icon">Foursquare</span></li></a>
-						<li><span class="location-icon">4637 N Albina Ave</span></li>
+						<a href="http://www.couriercoffeeroasters.com"><li><span class="link-icon">couriercoffeeroasters.com</span></li></a>
+						<li><span class="location-icon">923 SW Oak</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>
@@ -83,11 +83,11 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/courier.jpg);">
-					<p class="item-name">Courier Coffee</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/albina.png);">
+					<p class="item-name">The Albina Press</p>
 					<ul>
-						<a href="http://www.couriercoffeeroasters.com"><li><span class="link-icon">couriercoffeeroasters.com</span></li></a>
-						<li><span class="location-icon">923 SW Oak</span></li>
+						<a href="https://foursquare.com/v/the-albina-press/4a5ecd39f964a52028bf1fe3"><li><span class="link-icon">Foursquare</span></li></a>
+						<li><span class="location-icon">4637 N Albina Ave</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>

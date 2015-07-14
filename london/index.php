@@ -21,13 +21,13 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/london/workshop.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/london/workshop.jpg);">
 					<p class="item-name">Workshop Coffee</p>
 					<ul>
 						<a href="http://www.workshopcoffee.com/"><li><span class="link-icon">workshopcoffee.com</span></li></a>
 						<li><span class="location-icon">27 Clerkenwell Road</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/3N4AjEpUvl/">More Info</a>
 				</div>
 			</div>
 
@@ -87,7 +87,7 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 			<div class="loop-6">
 				<p class="label">Prev</p>
-				<a href="#"><p>Portland</p></a>
+				<a href="/brighton"><p>Brighton</p></a>
 			</div>
 			<div id="right" class="loop-6">
 				<p class="label">Next</p>

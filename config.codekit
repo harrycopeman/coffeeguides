@@ -110,6 +110,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_core\/imgs\/brighton\/bond.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157899,
+		"inputAbbreviatedPath": "\/_core\/imgs\/brighton\/bond.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/brighton\/bond.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/brighton\/coho.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100598,
+		"inputAbbreviatedPath": "\/_core\/imgs\/brighton\/coho.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/brighton\/coho.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/brighton\/flour.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254480,
+		"inputAbbreviatedPath": "\/_core\/imgs\/brighton\/flour.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/brighton\/flour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/brighton\/marwood.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120876,
+		"inputAbbreviatedPath": "\/_core\/imgs\/brighton\/marwood.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/brighton\/marwood.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/brighton\/pelicano.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136954,
+		"inputAbbreviatedPath": "\/_core\/imgs\/brighton\/pelicano.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/brighton\/pelicano.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/brighton\/small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73745,
+		"inputAbbreviatedPath": "\/_core\/imgs\/brighton\/small.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/brighton\/small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_core\/imgs\/bristol\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -249,6 +315,17 @@
 		"initialSize": 630459,
 		"inputAbbreviatedPath": "\/_core\/imgs\/london\/social.png",
 		"outputAbbreviatedPath": "\/_core\/imgs\/london\/social.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/london\/workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130383,
+		"inputAbbreviatedPath": "\/_core\/imgs\/london\/workshop.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/london\/workshop.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -396,6 +473,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_core\/imgs\/portland\/albina.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 938514,
+		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/albina.png",
+		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/albina.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/portland\/barista.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.80323e+06,
+		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/barista.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/barista.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_core\/imgs\/portland\/bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -414,6 +513,39 @@
 		"initialSize": 665518,
 		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/coava.jpg",
 		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/coava.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/portland\/courier.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.73996e+06,
+		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/courier.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/courier.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/portland\/ristretto.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 453389,
+		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/ristretto.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/ristretto.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_core\/imgs\/portland\/stumptown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110702,
+		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/stumptown.jpg",
+		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/stumptown.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -2447,7 +2447,7 @@ img {
 .loop-12 {
   width: 100%; }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .loop-1,
   .loop-2,
   .loop-3,
@@ -2546,7 +2546,7 @@ footer {
   text-align: center;
   font-size: 50px;
   font-weight: 500;
-  margin-bottom: 10px; }
+  margin-bottom: 20px; }
 .intro p {
   font-family: "leitura-news", serif;
   text-align: center;
@@ -2721,17 +2721,23 @@ footer {
     .item ul a:hover {
       opacity: 0.7; }
   .item .more {
-    display: none;
-    font-family: "europa", sans-serif;
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
     position: absolute;
-    right: 40px;
-    bottom: 24px;
-    border-bottom: 2px solid #DBBA88; }
+    right: 4px;
+    bottom: 16px;
+    text-indent: -9999px;
+    background-image: url(../imgs/instagram.svg);
+    opacity: 0.5;
+    background-position: left center;
+    background-repeat: no-repeat; }
+    .item .more:hover {
+      opacity: 1; }
   .item .location {
-    opacity: 0.9; }
+    background: #DBBA88 no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 1; }
   .item .black:before {
     -moz-transition: opacity 300ms ease-in-out;
     -o-transition: opacity 300ms ease-in-out;
@@ -2740,7 +2746,7 @@ footer {
     background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 43%, #000000 100%); }
 
 .controls {
-  margin: 40px auto 80px !important; }
+  margin: 60px auto 80px !important; }
   .controls .label {
     font-family: "leitura-news", serif;
     font-style: italic;
@@ -2761,7 +2767,6 @@ footer {
     opacity: 1; }
 
 .location {
-  cursor: pointer;
   width: 100%;
   height: 460px;
   display: inline-block;

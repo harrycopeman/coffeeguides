@@ -21,24 +21,24 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-6">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/ground.jpg);">
-					<p class="item-name">Ground Support</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/brighton/small.jpg);">
+					<p class="item-name">Small Batch Coffee Company</p>
 					<ul>
-						<a href="http://www.groundsupportcafe.com"><li><span class="link-icon">groundsupportcafe.com</span></li></a>
-						<li><span class="location-icon">399 W Broadway</span></li>
+						<a href="http://smallbatchcoffee.co.uk"><li><span class="link-icon">smallbatchcoffee.co.uk</span></li></a>
+						<li><span class="location-icon">7 Jubilee St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/10JoIvBB_g/">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-6">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/stumptown.jpg);">
-					<p class="item-name">Stumptown Coffee Roasters</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/brighton/flour.jpg);">
+					<p class="item-name">The Flour Pot Bakery</p>
 					<ul>
-						<a href="https://www.stumptowncoffee.com"><li><span class="link-icon">stumptowncoffee.com</span></li></a>
-						<li><span class="location-icon">30 W 8th St</span></li>
+						<a href="http://flour-pot.co.uk"><li><span class="link-icon">flour-pot.co.uk</span></li></a>
+						<li><span class="location-icon">40 Sydney St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4o4H1glYq8/">More Info</a>
 				</div>
 			</div>
 
@@ -52,24 +52,24 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/birch.jpg);">
-					<p class="item-name">Birch Coffee</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/brighton/pelicano.jpg);">
+					<p class="item-name">Pelicano Coffee House</p>
 					<ul>
-						<a href="http://www.birchcoffee.com"><li><span class="link-icon">birchcoffee.com</span></li></a>
-						<li><span class="location-icon">56 7th Ave</span></li>
+						<a href="https://www.facebook.com/Pelicanohouse"><li><span class="link-icon">facebook.com/Pelicanohouse</span></li></a>
+						<li><span class="location-icon">28 Sydney St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/3Ygw2ns9-9/">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/blue.jpg);">
-					<p class="item-name">Blue Bottle Coffee</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/brighton/coho.jpg);">
+					<p class="item-name">Cafe CoHo</p>
 					<ul>
-						<a href="https://bluebottlecoffee.com"><li><span class="link-icon">bluebottlecoffee.com</span></li></a>
-						<li><span class="location-icon">160 Berry St</span></li>
+						<a href="http://www.cafecoho.co.uk"><li><span class="link-icon">cafecoho.co.uk</span></li></a>
+						<li><span class="location-icon">53 Ship St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4hPYW5ubhW/">More Info</a>
 				</div>
 			</div>
 
@@ -83,24 +83,24 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/maman.jpg);">
-					<p class="item-name">Maman</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/brighton/bond.jpg);">
+					<p class="item-name">Bond Street Coffee</p>
 					<ul>
-						<a href="http://www.mamannyc.com"><li><span class="link-icon">mamannyc.com</span></li></a>
-						<li><span class="location-icon">239 Centre St</span></li>
+						<a href="http://www.bondstcoffee.co.uk"><li><span class="link-icon">bondstcoffee.co.uk</span></li></a>
+						<li><span class="location-icon">15 Bond St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/3Oh6ELS3V5/">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/collins.jpg);">
-					<p class="item-name">Little Collins</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/brighton/marwood.jpg);">
+					<p class="item-name">The Marwood</p>
 					<ul>
-						<a href="http://www.littlecollinsnyc.com"><li><span class="link-icon">littlecollinsnyc.com</span></li></a>
-						<li><span class="location-icon">667 Lexington Ave</span></li>
+						<a href="http://www.themarwood.com"><li><span class="link-icon">themarwood.com</span></li></a>
+						<li><span class="location-icon">52 Chip St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4AM-u6vL2X/">More Info</a>
 				</div>
 			</div>
 
@@ -118,11 +118,11 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 			<div class="loop-6">
 				<p class="label">Prev</p>
-				<a href="/san-francisco"><p>San Francisco</p></a>
+				<a href="/portland"><p>Portland</p></a>
 			</div>
 			<div id="right" class="loop-6">
 				<p class="label">Next</p>
-				<a href="/bristol"><p>Bristol</p></a>
+				<a href="/london"><p>London</p></a>
 			</div>
 		</div>
 	</div>
