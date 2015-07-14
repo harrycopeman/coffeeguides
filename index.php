@@ -8,7 +8,7 @@ include ("_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<h1>Find your Coffee spot</h1>
-			<p>We handpick the best coffee spots in your city, for your drinking & working pleasure.</p>
+			<p>The best coffee spots in your city, handpicked for your drinking & working pleasure.</p>
 		</div>
 	</div>
 </section>

@@ -21,24 +21,24 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-6">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/1.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/elephant.jpg);">
 					<p class="item-name">Five Elephant</p>
 					<ul>
 						<a href="http://www.fiveelephant.com/"><li><span class="link-icon">fiveelephant.com</span></li></a>
 						<li><span class="location-icon">Reichenberger Straße 101</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/0uwqplFWzF/">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-6">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/2.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/fire.jpg);">
 					<p class="item-name">No Fire No Glory</p>
 					<ul>
 						<a href="http://www.nofirenoglory.de/"><li><span class="link-icon">nofirenoglory.de</span></li></a>
 						<li><span class="location-icon">Rykestraße 45</span></li>
 					</ul>>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/5G8aCznVs5/">More Info</a>
 				</div>
 			</div>
 
@@ -52,24 +52,24 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/3.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/chapter.jpg);">
 					<p class="item-name">Chapter One</p>
 					<ul>
 						<a href="http://www.chapter-one-coffee.com/"><li><span class="link-icon">chapter-one-coffee.com</span></li></a>
 						<li><span class="location-icon">Mittenwalder Straße 30</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/5ClbYKw5Yy/">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/4.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/barn.jpg);">
 					<p class="item-name">The Barn</p>
 					<ul>
 						<a href="http://barn.bigcartel.com/"><li><span class="link-icon">barn.bigcartel.com</span></li></a>
 						<li><span class="location-icon">Auguststraße 58</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/5B_hCln9ud/">More Info</a>
 				</div>
 			</div>
 
@@ -84,24 +84,24 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/5.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/companion.jpg);">
 					<p class="item-name">Companion Coffee</p>
 					<ul>
 					<a href="https://www.facebook.com/pages/Companion-Coffee/317033645062941"><li><span class="link-icon">facebook.com/Companion-Coffee</span></li></a>
 					<li><span class="location-icon">Oranienstrasse 24</span></li>
 				</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/3e2JRAEj8E/">More Info</a>
 				</div>
 			</div>
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/6.jpg);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/berlin/ck.jpg);">
 					<p class="item-name">CAFE CK</p>
 					<ul>
 						<a href="http://cafeckberlin.com/"><li><span class="link-icon">cafeckberlin.com</span></li></a>
 						<li><span class="location-icon">Marienburgerstraße 49</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4Zn1_rsZ5k/c">More Info</a>
 				</div>
 			</div>
 

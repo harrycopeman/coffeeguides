@@ -21,13 +21,13 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-6">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/ground.jpg);">
-					<p class="item-name">Ground Support</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/birch.jpg);">
+					<p class="item-name">Birch Coffee</p>
 					<ul>
-						<a href="http://www.groundsupportcafe.com"><li><span class="link-icon">groundsupportcafe.com</span></li></a>
-						<li><span class="location-icon">399 W Broadway</span></li>
+						<a href="http://www.birchcoffee.com"><li><span class="link-icon">birchcoffee.com</span></li></a>
+						<li><span class="location-icon">56 7th Ave</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/490yK1g0nz/">More Info</a>
 				</div>
 			</div>
 
@@ -38,7 +38,7 @@ include ("../_include/navigation.php");
 						<a href="https://www.stumptowncoffee.com"><li><span class="link-icon">stumptowncoffee.com</span></li></a>
 						<li><span class="location-icon">30 W 8th St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/5FfdebzCWS/">More Info</a>
 				</div>
 			</div>
 
@@ -52,13 +52,13 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/birch.jpg);">
-					<p class="item-name">Birch Coffee</p>
+				<div class="location overlay black" style="background-image: url(/_core/imgs/ny/ground.jpg);">
+					<p class="item-name">Ground Support</p>
 					<ul>
-						<a href="http://www.birchcoffee.com"><li><span class="link-icon">birchcoffee.com</span></li></a>
-						<li><span class="location-icon">56 7th Ave</span></li>
+						<a href="http://www.groundsupportcafe.com"><li><span class="link-icon">groundsupportcafe.com</span></li></a>
+						<li><span class="location-icon">399 W Broadway</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/3ZZRFxjmqV/">More Info</a>
 				</div>
 			</div>
 
@@ -69,7 +69,7 @@ include ("../_include/navigation.php");
 						<a href="https://bluebottlecoffee.com"><li><span class="link-icon">bluebottlecoffee.com</span></li></a>
 						<li><span class="location-icon">160 Berry St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4z_LhXJ75A/">More Info</a>
 				</div>
 			</div>
 
@@ -89,7 +89,7 @@ include ("../_include/navigation.php");
 						<a href="http://www.mamannyc.com"><li><span class="link-icon">mamannyc.com</span></li></a>
 						<li><span class="location-icon">239 Centre St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="">More Info</a>
 				</div>
 			</div>
 
@@ -100,7 +100,7 @@ include ("../_include/navigation.php");
 						<a href="http://www.littlecollinsnyc.com"><li><span class="link-icon">littlecollinsnyc.com</span></li></a>
 						<li><span class="location-icon">667 Lexington Ave</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4olv_UJ9dE/">More Info</a>
 				</div>
 			</div>
 
