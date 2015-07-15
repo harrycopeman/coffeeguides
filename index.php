@@ -73,7 +73,7 @@ include ("_include/navigation.php");
 		<div class="loop-12">
 			<div class="loop-12">
 				<h1>More coming soon</h1>
-				<p>Sign up to be notified when we add more cities to the site. Want to see your hometown here? <a href="mailto:harry.copeman@gmail.com?subject=Check out my city!&body=Hey, you should check out ...">Let us know</a>.</p>
+				<p>Sign up to be notified when I add more cities to the site. Want to see your hometown here? <a href="mailto:harry.copeman@gmail.com?subject=Check out my city!&body=Hey, you should check out ...">Let me know</a>.</p>
 
 				<!-- Begin MailChimp Signup Form -->
 				<div id="mc_embed_signup">

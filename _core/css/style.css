@@ -56,6 +56,50 @@ table {
 body {
   background-color: #F7F5F3; }
 
+.about-intro h1 {
+  margin-top: 220px;
+  font-family: "europa", sans-serif;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 500;
+  margin-bottom: 150px; }
+
+.about-copy {
+  margin-bottom: 80px; }
+
+.note {
+  margin-bottom: 100px; }
+
+.body {
+  font-family: "leitura-news", serif;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #32393B; }
+  .body a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 2px solid #DBBA88; }
+
+.left-text {
+  font-size: 26px;
+  font-family: "europa", sans-serif;
+  color: gray; }
+
+@media only screen and (max-width: 800px) {
+  .body {
+    font-size: 16px; }
+
+  .about-copy {
+    margin-bottom: 40px; }
+
+  .left-text {
+    margin-bottom: -10px;
+    font-size: 20px; }
+
+  .about-intro h1 {
+    font-size: 36px;
+    margin-top: 200px;
+    margin-bottom: 100px; } }
 /*!
 Animate.css - http://daneden.me/animate
 Licensed under the MIT license - http://opensource.org/licenses/MIT
@@ -2390,9 +2434,15 @@ img {
 .span {
   width: 100%;
   min-width: 260px;
-  max-width: 90%;
-  margin: 0 auto; }
+  max-width: 1600px;
+  margin: 0 auto;
+  padding-left: 40px;
+  padding-right: 40px; }
 
+@media (max-width: 970px) {
+  .span {
+    padding-right: 0;
+    padding-left: 0; } }
 /*Clears Childern Elements*/
 .span:after {
   content: "";
@@ -2551,6 +2601,12 @@ footer {
     font-size: 13px;
     letter-spacing: 2px;
     margin-top: 18px; }
+  footer a {
+    color: inherit;
+    border-bottom: 1px solid #DBBA88;
+    text-decoration: none; }
+    footer a:hover {
+      color: #32393B; }
 
 .intro h1 {
   margin-top: 240px;
@@ -2647,7 +2703,7 @@ footer {
     max-width: 540px;
     margin: auto;
     font-size: 20px;
-    line-height: 1.5;
+    line-height: 1.6;
     margin-top: 10px;
     margin-bottom: 80px; }
   .cta a {

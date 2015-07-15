@@ -22,8 +22,15 @@ img {
     min-width:260px;
     max-width: $width;
     margin: 0 auto;
+    padding-left: 40px;
+    padding-right: 40px;
 }
-
+@media (max-width: 970px) {
+  .span {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
 
 /*Clears Childern Elements*/
 
