@@ -29,10 +29,33 @@
 					padding-right: 20px;
 				}
 		}
+
 }
 
 .dark {
 	h1, li {
 		color: $text !important;
+	}
+}
+
+@media only screen and (max-width : $break) {
+	.navigation {
+		background: #F7F5F3;
+		height: 76px;
+
+
+			ul {
+				right: 14px;
+
+					li {
+						font-size: 16px;
+						padding-top: 4px;
+					}
+			}
+			h1 {
+				left: 30px;
+				border-bottom: none;
+			}
+
 	}
 }

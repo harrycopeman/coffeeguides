@@ -20,25 +20,25 @@ include ("../_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 
-			<div class="loop-8">
+			<div class="loop-6">
 				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/coava.jpg);">
 					<p class="item-name">Coava</p>
 					<ul>
 						<a href="http://coavacoffee.com"><li><span class="link-icon">coavacoffee.com</span></li></a>
 						<li><span class="location-icon">1300 SE Grand Ave</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/3HKaHfi3ri/">More Info</a>
 				</div>
 			</div>
 
-			<div class="loop-4">
+			<div class="loop-6">
 				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/courier.jpg);">
 					<p class="item-name">Courier Coffee</p>
 					<ul>
 						<a href="http://www.couriercoffeeroasters.com"><li><span class="link-icon">couriercoffeeroasters.com</span></li></a>
 						<li><span class="location-icon">923 SW Oak</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/299eOPozwi/">More Info</a>
 				</div>
 			</div>
 
@@ -58,7 +58,7 @@ include ("../_include/navigation.php");
 						<a href="http://baristapdx.com"><li><span class="link-icon">baristapdx.com</span></li></a>
 						<li><span class="location-icon">529 SW 3rd Ave</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4NL1bFwdwP/">More Info</a>
 				</div>
 			</div>
 
@@ -69,7 +69,7 @@ include ("../_include/navigation.php");
 						<a href="https://www.stumptowncoffee.com"><li><span class="link-icon">stumptowncoffee.com</span></li></a>
 						<li><span class="location-icon">3356 SE Belmont St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/5FsMLzC6hc/">More Info</a>
 				</div>
 			</div>
 
@@ -83,13 +83,13 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-7">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/albina.png);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/portland/albina.jpg);">
 					<p class="item-name">The Albina Press</p>
 					<ul>
 						<a href="https://foursquare.com/v/the-albina-press/4a5ecd39f964a52028bf1fe3"><li><span class="link-icon">Foursquare</span></li></a>
 						<li><span class="location-icon">4637 N Albina Ave</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4HmzYYu-vq/">More Info</a>
 				</div>
 			</div>
 
@@ -98,7 +98,7 @@ include ("../_include/navigation.php");
 					<p class="item-name">Ristretto Roasters</p>
 					<ul>
 						<a href="http://ristrettoroasters.com"><li><span class="link-icon">ristrettoroasters.com</span></li></a>
-						<li><span class="location-icon">3808 N Williams Ave</span></li>
+						<li><span class="location-icon">555 Northeast Couch St</span></li>
 					</ul>
 					<a class="more" href="#">More Info</a>
 				</div>

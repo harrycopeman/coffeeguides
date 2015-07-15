@@ -2523,10 +2523,22 @@ All things Layout
 .dark h1, .dark li {
   color: #32393B !important; }
 
+@media only screen and (max-width: 800px) {
+  .navigation {
+    background: #F7F5F3;
+    height: 76px; }
+    .navigation ul {
+      right: 14px; }
+      .navigation ul li {
+        font-size: 16px;
+        padding-top: 4px; }
+    .navigation h1 {
+      left: 30px;
+      border-bottom: none; } }
 footer {
   margin-top: 60px;
   height: 60px;
-  background: #fdfdfc; }
+  background: #F7F5F3; }
   footer ul {
     text-align: center; }
   footer li {
@@ -2563,6 +2575,14 @@ footer {
   border-bottom: 2px solid #e7e8eb; }
   .intro a:hover {
     border-bottom: 2px solid #9399A6; }
+@media only screen and (max-width: 800px) {
+  .intro h1 {
+    font-size: 36px;
+    line-height: 1.4;
+    margin-top: 200px; }
+  .intro p {
+    font-size: 16px;
+    margin-bottom: 100px; } }
 
 .cities .city-name {
   color: white;
@@ -2596,23 +2616,29 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
-  display: none;
   z-index: 0; }
-.cities .overlay:hover:before {
+.cities .overlay::before {
   display: block; }
 .cities .black:before {
-  background-color: rgba(0, 0, 0, 0.1); }
+  background-color: rgba(0, 0, 0, 0.2); }
 .cities .city * {
   position: relative;
   /* hack */ }
+@media only screen and (max-width: 800px) {
+  .cities .city {
+    margin-bottom: 0; }
+  .cities .city-name {
+    font-size: 40px; }
+  .cities .black:before {
+    background-color: rgba(0, 0, 0, 0.2); } }
 
 .cta {
   padding-bottom: 40px; }
   .cta h1 {
-    margin-top: 100px;
+    margin-top: 120px;
     font-family: "europa", sans-serif;
     color: #32393B;
-    font-size: 48px;
+    font-size: 40px;
     text-align: center; }
   .cta p {
     font-family: "leitura-news", serif;
@@ -2620,7 +2646,7 @@ footer {
     text-align: center;
     max-width: 540px;
     margin: auto;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.5;
     margin-top: 10px;
     margin-bottom: 80px; }
@@ -2664,6 +2690,12 @@ footer {
       letter-spacing: 2px; }
       .cta form input[type="submit"]:hover {
         opacity: 0.9; }
+  @media only screen and (max-width: 800px) {
+    .cta h1 {
+      font-size: 30px; }
+    .cta p {
+      font-size: 16px;
+      margin-bottom: 50px; } }
 
 .city-header {
   -webkit-background-size: cover;
@@ -2679,6 +2711,11 @@ footer {
     margin-bottom: 200px; }
   .city-header #black {
     color: #32393B; }
+  @media only screen and (max-width: 800px) {
+    .city-header h1 {
+      font-size: 40px;
+      margin-top: 200px;
+      margin-bottom: 180px; } }
 
 .item {
   margin-bottom: -20px; }
@@ -2688,16 +2725,16 @@ footer {
     font-size: 28px;
     margin-bottom: 5px;
     padding-right: 20px;
-    line-height: 1.4;
+    line-height: 1.3;
     font-weight: 500;
     color: white;
     position: absolute;
-    bottom: 68px;
-    left: 30px; }
+    bottom: 70px;
+    left: 28px; }
   .item ul {
     position: absolute;
     bottom: 16px;
-    left: 30px; }
+    left: 28px; }
     .item ul li {
       margin-right: 40px;
       font-size: 16px;
@@ -2767,6 +2804,8 @@ footer {
     text-align: right; }
   .controls .label:hover {
     opacity: 1; }
+  .controls .loop-6 {
+    width: 50%; }
 
 .location {
   width: 100%;
@@ -2809,3 +2848,13 @@ footer {
 
 .invisible {
   opacity: .2; }
+
+@media only screen and (max-width: 800px) {
+  .location {
+    height: 400px; }
+
+  .overlay:before {
+    opacity: .7; }
+
+  .item-name {
+    bottom: 76px; } }

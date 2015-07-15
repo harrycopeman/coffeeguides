@@ -1,5 +1,5 @@
 <?php
-$title = "Coffee Guides - Handpicked Coffee spots in your city";
+$title = "Coffee Guides - Handpicked Coffee Spots";
 include ("_include/header.php");
 include ("_include/navigation.php");
 ?>
@@ -7,7 +7,7 @@ include ("_include/navigation.php");
 <section class="intro">
 	<div class="span">
 		<div class="loop-12">
-			<h1>Find your Coffee spot</h1>
+			<h1>Coffee Guides</h1>
 			<p>The best coffee spots in your city, handpicked for your drinking & working pleasure.</p>
 		</div>
 	</div>
@@ -19,12 +19,12 @@ include ("_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-7">
-				<a href="london"><div class="city overlay black" style="background-image: url(_core/imgs/london/bg.png);">
+				<a href="london"><div class="city overlay black" style="background-image: url(_core/imgs/london/ozone.jpg);">
 		    		<h1 class="city-name">London</h1>
 				</div></a>
 			</div>
 			<div class="loop-5">
-				<a href="berlin"><div class="city overlay black" style="background-image: url(_core/imgs/berlin/bg.png);">
+				<a href="berlin"><div class="city overlay black" style="background-image: url(_core/imgs/berlin/chapter.jpg);">
 					<h1 class='city-name'>Berlin</h1>
 				</div></a>
 			</div>
@@ -35,18 +35,18 @@ include ("_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-4">
-				<a href="san-francisco"><div class="city overlay black" style="background-image: url(_core/imgs/sf/bg.png);">
+				<a href="san-francisco"><div class="city overlay black" style="background-image: url(_core/imgs/sf/mill.jpg);">
 					<h1 class='city-name'>SF</h1>
 				</div></a>
 			</div>
 			<div class="loop-4">
-				<a href="new-york"><div class="city overlay black" style="background-image: url(_core/imgs/ny/bg.png);">
+				<a href="new-york"><div class="city overlay black" style="background-image: url(_core/imgs/ny/birch.jpg);">
 					<h1 class='city-name'>New York</h1>
 				</div></a>
 			</div>
 			<div class="loop-4">
-				<a href="bristol"><div class="city overlay black" style="background-image: url(_core/imgs/bristol/bg.png);">
-					<h1 class='city-name'>Bristol</h1>
+				<a href="portland"><div class="city overlay black" style="background-image: url(_core/imgs/portland/barista.jpg);">
+					<h1 class='city-name'>Portland</h1>
 				</div></a>
 			</div>
 		</div>
@@ -55,13 +55,13 @@ include ("_include/navigation.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-5">
-				<a href="portland"><div class="city overlay black" style="background-image: url(_core/imgs/portland/bg.png);">
-					<h1 class='city-name'>Portland</h1>
+				<a href="brighton"><div class="city overlay black" style="background-image: url(_core/imgs/brighton/marwood.jpg);">
+					<h1 class='city-name'>Brighton</h1>
 				</div></a>
 			</div>
 			<div class="loop-7">
-				<a href="brighton"><div class="city overlay black" style="background-image: url(_core/imgs/brighton/bg.png);">
-					<h1 class='city-name'>Brighton</h1>
+				<a href="bristol"><div class="city overlay black" style="background-image: url(_core/imgs/bristol/spicer.jpg);">
+					<h1 class='city-name'>Bristol</h1>
 				</div></a>
 			</div>
 		</div>

@@ -27,7 +27,6 @@ include ("../_include/navigation.php");
 						<a href="http://spicerandcole.co.uk"><li><span class="link-icon">spicerandcole.co.uk</span></li></a>
 						<li><span class="location-icon">1 Queen Square Ave</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
 				</div>
 			</div>
 
@@ -38,7 +37,7 @@ include ("../_include/navigation.php");
 						<a href="http://www.smallstreetespresso.co.uk"><li><span class="link-icon">smallstreetespresso.co.uk</span></li></a>
 						<li><span class="location-icon">23 Small St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/4rx47Amzaa/">More Info</a>
 				</div>
 			</div>
 
@@ -52,13 +51,13 @@ include ("../_include/navigation.php");
 		<div class="loop-12">
 
 			<div class="loop-5">
-				<div class="location overlay black" style="background-image: url(/_core/imgs/bristol/1.jpg);">
+				<div class="location overlay black" style="background-image: url(/_core/imgs/bristol/fullcourt.jpg);">
 					<p class="item-name">Full Court Press</p>
 					<ul>
 						<a href="http://www.fcpcoffee.com"><li><span class="link-icon">fcpcoffee.com</span></li></a>
 						<li><span class="location-icon">59 Broad St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/xyqT5wuGxc/">More Info</a>
 				</div>
 			</div>
 
@@ -69,7 +68,7 @@ include ("../_include/navigation.php");
 						<a href="http://www.cafe-kino.com"><li><span class="link-icon">cafe-kino.com</span></li></a>
 						<li><span class="location-icon">108 Stokes Croft</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/2tMVwQrH3s/">More Info</a>
 				</div>
 			</div>
 
@@ -89,7 +88,7 @@ include ("../_include/navigation.php");
 						<a href="http://www.playgroundcoffee.co.uk"><li><span class="link-icon">playgroundcoffee.co.uk</span></li></a>
 						<li><span class="location-icon">45 St Nicholas St</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					<a class="more" href="https://instagram.com/p/49aYe0hK15/">More Info</a>
 				</div>
 			</div>
 
@@ -100,7 +99,7 @@ include ("../_include/navigation.php");
 						<a href="http://www.friskafood.com"><li><span class="link-icon">friskafood.com</span></li></a>
 						<li><span class="location-icon">70 Queen's Road</span></li>
 					</ul>
-					<a class="more" href="#">More Info</a>
+					
 				</div>
 			</div>
 

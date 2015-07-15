@@ -1,8 +1,6 @@
 <footer>
 	<ul>
 		<li>©Copyright 2015</li>
-		<li>About</li>
-		<li>Submit</li>
 		<li>A thing by Harry</li>
 	</ul>
 </footer>
