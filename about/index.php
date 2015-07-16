@@ -24,7 +24,7 @@ include ("../_include/navigation.php");
 			</div>
 			<div class="loop-9">
 				<p class="body">Coffee Guides was built out of my sheer interest for the global coffee scene. As I explore each city, I want to find the best cup I can, and hopefully this handy guide will help you do the same.<br><br>
-				I hope you enjoy these guides, and as this site grows, I hope to dive further down the rabbit hole into what this domain entails. Hopefully that will include some in depth brewing guides, and perhaps some recommendations of beans too. For now, I’d like to keep things simple.<br><br>
+				As this site grows, I plan on diving further down the rabbit hole into what this domain entails. Perhaps that will include some in depth brewing guides, and some recommendations of beans too. For now, I’d like to keep things simple.<br><br>
 				Please do send feedback my way, and if you’d like to see a good coffee spot that you know of on the site, <a href="mailto:harry.copeman@gmail.com">drop me a line</a>.</p>
 			</div>
 		</div>
