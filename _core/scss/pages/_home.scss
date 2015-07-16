@@ -104,12 +104,18 @@
 		@media only screen and (max-width : $break) {
 			.city {
 				margin-bottom: 0;
+				margin-top: 0;
+				height: 300px;
 			}
 			.city-name {
+				padding-top: 110px;
 				font-size: 40px;
 			}
 			.black:before {
 		  	background-color: rgba(0,0,0,.2);
+			}
+			.loop-12:last-child {
+				margin-bottom: -24px;
 			}
 		}
 
@@ -180,6 +186,7 @@
 					height: 40px;
 					background: $text;
 					color: white;
+					-webkit-appearance: none;
 
 					font-family: $sans;
 					color: white;

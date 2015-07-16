@@ -231,17 +231,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_core\/imgs\/london\/bg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 731013,
-		"inputAbbreviatedPath": "\/_core\/imgs\/london\/bg.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/london\/bg.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_core\/imgs\/london\/grind.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -253,17 +242,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_core\/imgs\/london\/header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.18354e+06,
-		"inputAbbreviatedPath": "\/_core\/imgs\/london\/header.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/london\/header.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_core\/imgs\/london\/look.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -271,17 +249,6 @@
 		"initialSize": 198249,
 		"inputAbbreviatedPath": "\/_core\/imgs\/london\/look.jpg",
 		"outputAbbreviatedPath": "\/_core\/imgs\/london\/look.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_core\/imgs\/london\/look.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 586990,
-		"inputAbbreviatedPath": "\/_core\/imgs\/london\/look.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/london\/look.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -304,17 +271,6 @@
 		"initialSize": 172696,
 		"inputAbbreviatedPath": "\/_core\/imgs\/london\/ozone.jpg",
 		"outputAbbreviatedPath": "\/_core\/imgs\/london\/ozone.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_core\/imgs\/london\/ozone.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 532284,
-		"inputAbbreviatedPath": "\/_core\/imgs\/london\/ozone.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/london\/ozone.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -352,28 +308,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_core\/imgs\/london\/workshop.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 528999,
-		"inputAbbreviatedPath": "\/_core\/imgs\/london\/workshop.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/london\/workshop.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_core\/imgs\/ny\/bg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.53144e+06,
-		"inputAbbreviatedPath": "\/_core\/imgs\/ny\/bg.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/ny\/bg.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_core\/imgs\/ny\/birch.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -381,17 +315,6 @@
 		"initialSize": 134694,
 		"inputAbbreviatedPath": "\/_core\/imgs\/ny\/birch.jpg",
 		"outputAbbreviatedPath": "\/_core\/imgs\/ny\/birch.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_core\/imgs\/ny\/Bitmap.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 595258,
-		"inputAbbreviatedPath": "\/_core\/imgs\/ny\/Bitmap.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/ny\/Bitmap.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -429,17 +352,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_core\/imgs\/ny\/header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.77490e+06,
-		"inputAbbreviatedPath": "\/_core\/imgs\/ny\/header.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/ny\/header.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_core\/imgs\/ny\/maman.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -473,17 +385,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_core\/imgs\/portland\/albina.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 938514,
-		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/albina.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/albina.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_core\/imgs\/portland\/barista.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -491,17 +392,6 @@
 		"initialSize": 71680,
 		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/barista.jpg",
 		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/barista.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_core\/imgs\/portland\/bg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.97022e+06,
-		"inputAbbreviatedPath": "\/_core\/imgs\/portland\/bg.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/portland\/bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -550,17 +440,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_core\/imgs\/sf\/bg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 672465,
-		"inputAbbreviatedPath": "\/_core\/imgs\/sf\/bg.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/sf\/bg.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_core\/imgs\/sf\/blue.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -590,17 +469,6 @@
 		"initialSize": 127327,
 		"inputAbbreviatedPath": "\/_core\/imgs\/sf\/frank.jpg",
 		"outputAbbreviatedPath": "\/_core\/imgs\/sf\/frank.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_core\/imgs\/sf\/header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.58385e+06,
-		"inputAbbreviatedPath": "\/_core\/imgs\/sf\/header.png",
-		"outputAbbreviatedPath": "\/_core\/imgs\/sf\/header.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -2682,11 +2682,16 @@ footer {
   /* hack */ }
 @media only screen and (max-width: 800px) {
   .cities .city {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    margin-top: 0;
+    height: 300px; }
   .cities .city-name {
+    padding-top: 110px;
     font-size: 40px; }
   .cities .black:before {
-    background-color: rgba(0, 0, 0, 0.2); } }
+    background-color: rgba(0, 0, 0, 0.2); }
+  .cities .loop-12:last-child {
+    margin-bottom: -24px; } }
 
 .cta {
   padding-bottom: 40px; }
@@ -2738,6 +2743,7 @@ footer {
       height: 40px;
       background: #32393B;
       color: white;
+      -webkit-appearance: none;
       font-family: "europa", sans-serif;
       color: white;
       font-size: 13px;
