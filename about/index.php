@@ -23,9 +23,9 @@ include ("../_include/navigation.php");
 				<p class="left-text">Why</p>
 			</div>
 			<div class="loop-9">
-				<p class="body">Coffee Guides was built out of my sheer interest for the global coffee scene. As I explore each city, I want to find the best cup I can, and hopefully this handy guide will help you do the same.<br><br>
-				As this site grows, I plan on diving further down the rabbit hole into what this domain entails. Perhaps that will include some in depth brewing guides, and some recommendations of beans too. For now, I’d like to keep things simple.<br><br>
-				Please do send feedback my way, and if you’d like to see a good coffee spot that you know of on the site, <a href="mailto:harry.copeman@gmail.com">drop me a line</a>.</p>
+				<p class="body">Coffee Guides was built out of our sheer interest for the global coffee scene. As we explore each city, we want to find the best cup we can, and hopefully this handy guide will help you do the same.<br><br>
+				As this site grows, we plan on diving further down the rabbit hole into what this domain entails. Perhaps that will include some in depth brewing guides, and some recommendations of beans too. For now, let’s keep things simple.<br><br>
+				Please do send feedback our way, and if you’d like to see a good coffee spot that you know of on the site, <a href="mailto:harry.copeman@gmail.com">drop us a line</a>.</p>
 			</div>
 		</div>
 	</div>
@@ -38,11 +38,13 @@ include ("../_include/navigation.php");
 				<p class="left-text">Who</p>
 			</div>
 			<div class="loop-9">
-				<p class="body">I’m Harry Copeman, a designer joining the team at Facebook, with a passion for side projects and coffee. As I strive to expand my design skill-set, I hope to develop this site into more of a true place for coffee guides. This space will also give me a selfish excuse to explore more and more cities. Please do reach out to me:<br><br>
-				<a href="https://twitter.com/harrycopeman">Twitter</a><br>
-				<a href="https://instagram.com/harrycopeman/">Instagram</a><br>
-				<a href="mailto:harry.copeman@gmail.com">Email</a><br>
-				<a href="http://harrycopeman.com">Website</a>
+				<div class="person">
+					<div class="image"></div>
+					<div class="text">
+						<h2>Harry Copeman</h2>
+						<p class="body">A designer joining the team at Facebook, with a passion for side projects, coffee and cycling.</p>
+						<a href="https://twitter.com/harrycopeman"><p class="body">@harrycopeman</p></a>
+					</div>
 				</p>
 			</div>
 		</div>
@@ -57,7 +59,7 @@ include ("../_include/navigation.php");
 				<p class="left-text">Note</p>
 			</div>
 			<div class="loop-9">
-				<p class="body">All of the photography you see on Coffee Guides, was taken by a talented member of Instagram. By doing this, I can tell a more personal tale of each spot, and hopefully it gives you an insight into what each place is truly like.</p>
+				<p class="body">All of the photography you see on Coffee Guides was taken by a talented member of Instagram. By doing this, we can tell a more personal tale of each spot, and hopefully it gives you an insight into what each place is truly like.</p>
 			</div>
 		</div>
 	</div>

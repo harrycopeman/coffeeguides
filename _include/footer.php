@@ -1,7 +1,7 @@
 <footer>
 	<ul>
 		<li>©Copyright 2015</li>
-		<li>A thing by <a href="https://twitter.com/harrycopeman">Harry</a></li>
+		<li>A thing by <a href="https://twitter.com/harrycopeman">Harry</a> & <a href="https://twitter.com/_bgian">Bobby</a></li>
 	</ul>
 </footer>
 
